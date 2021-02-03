@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Karma
-![](https://dribbble.com/shots/4948736-UI-Developer/attachments/4948736-UI-Developer?mode=media)
+![](https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif)
 
 A software engineer, focused on Frontend development with the love of building responsive web applications.
 
