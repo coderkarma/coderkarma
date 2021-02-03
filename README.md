@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Karma
-![](https://www.thisiscolossal.com/wp-content/uploads/2014/03/130309.gif)
+![](https://dribbble.com/shots/4948736-UI-Developer/attachments/4948736-UI-Developer?mode=media)
 
 A software engineer, focused on Frontend development with the love of building responsive web applications.
 
