@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Karma
+### Hi there 👋, I'm Karma
 ![](https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif)
 
 A software engineer, focused on Frontend development with the love of building responsive web applications.
