@@ -5,7 +5,7 @@ A software engineer, focused on Frontend development with the love of building r
 
 Skills: React / JavaScript  / HTML3 / CSS3 / Bootstrap / Sass
 
-- 🔭 I’m currently working on Javascript project 
+- 🔭 I’m currently working on Next.js project 
 - 💬 Ask me about anything 
 - 📫 How to reach me: dev-karma.netlify.com 
 - ⚡ Fun fact: A photographer 
