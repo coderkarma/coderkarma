@@ -1,11 +1,11 @@
 ### Hi there 👋, I'm Karma
 ![](https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif)
 
-A software engineer, focused on Frontend development with the love of building responsive web applications.
+A Frontend Developer && SalesForce Admin, focused on Frontend development with the love of building responsive web applications AND Salesforce stuff.
 
 Skills: React / JavaScript  / HTML3 / CSS3 / Bootstrap / Sass
 
-- 🔭 I’m currently working on Next.js project 
+- 🔭 I’m currently working on Salesforce Admin, SOQL
 - 💬 Ask me about anything 
 - 📫 How to reach me: dev-karma.netlify.com 
 - ⚡ Fun fact: A photographer 
