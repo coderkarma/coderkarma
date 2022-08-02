@@ -1,11 +1,11 @@
 ### Hi there 👋, I'm Karma
 ![](https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif)
 
-A Frontend Developer && SalesForce Admin, focused on Frontend development with the love of building responsive web applications AND Salesforce stuff.
+A Certified SalesForce Admin and Frontend Developer - focused on Salesforce ecosystem and Frontend web development with the love of building responsive web applications.
 
-Skills: React / JavaScript  / HTML3 / CSS3 / Bootstrap / Sass
+Skills: Salesforce, Flows, Reports and Dashboards, Workflow Rules  React / JavaScript  / HTML3 / CSS3 / Bootstrap / Sass
 
-- 🔭 I’m currently working on Salesforce Admin, SOQL
+- 🔭 I’m currently working on Salesforce Admin and I love building frontend web applications. 
 - 💬 Ask me about anything 
 - 📫 How to reach me: dev-karma.netlify.com 
 - ⚡ Fun fact: A photographer 
